@@ -88,7 +88,7 @@ or
 1. Education is when you read the fine print. Experience is what you get if you don't.
 
    Handle the following conversion specifiers:
- d
+ d, 
  i
 
 2. With a face like mine, I do better in print.
@@ -96,9 +96,9 @@ or
 3. What one has not experienced, one will never understand in print.
 
    Handle the following conversion specifiers:
-u
-o
-x
+u,
+o,
+x,
 X
 
 4. Nothing in fine print is ever good news
@@ -116,9 +116,9 @@ X
 8. Sarcasm is lost in print.
 
    Handle the following length modifiers for non-custom conversion specifiers:
-l
-h
-Conversion specifiers to handle: d, i, u, o, x, X
+  l, h
+  Conversion specifiers to handle: 
+  d, i, u, o, x, X
                                                                                     
 9. Print some money and give it to us for the rain forests.
                                                                                     
