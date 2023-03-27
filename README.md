@@ -78,7 +78,7 @@ or
 |**r**|The  argument received is expected to be a pointer type char * to an array of characters.  Characters from this array are printed in reverse order up to (but not including) a null byte  ('\0').  |
 |**R**|The argument received is expected to be a pointer type char * to an array of characters.  Characters from this array  are  encoded  to  ROT13  and printed in order up to (but not including a null byte  ('\0').  |
 
-##GROUP PROJECT TASKS:##
+##**GROUP PROJECT TASKS:**
 
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 Write a function that produces output according to a format
@@ -129,7 +129,7 @@ Conversion specifiers to handle: d, i, u, o, x, X
                                                                                     
 14. The flood of print has turned reading into a process of gulping rather than savoring
                                                                                     
-15. *
+15. [ * ]
 All the above options work well together.
 
 
