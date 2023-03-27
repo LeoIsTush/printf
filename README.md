@@ -81,3 +81,6 @@ or
 ## **Author**
 Lawson Osuji
 
+## **Contributor**
+[John Kayode](https://github.com/driljaykay)
+
