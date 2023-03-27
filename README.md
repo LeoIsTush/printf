@@ -107,10 +107,6 @@ Use a local buffer of 1024 chars in order to call write as little as possible
 Handle the following conversion specifier: p.
                                                                                     
 7. The big print gives and the small print takes away
-Handle the following flag characters for non-custom conversion specifiers:
-* +
-* space
-* #
 
 8. Sarcasm is lost in print
 Handle the following length modifiers for non-custom conversion specifiers:
