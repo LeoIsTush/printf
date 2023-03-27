@@ -131,7 +131,7 @@ Conversion specifiers to handle: d, i, u, o, x, X
                                                                                     
 14. The flood of print has turned reading into a process of gulping rather than savoring.
                                                                                     
-15. * .
+15. \* .
 
    All the above options work well together.
 
